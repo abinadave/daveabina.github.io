@@ -150,17 +150,33 @@ h6 {
 # Header Social Links
 --------------------------------------------------------------*/
 .header-social-links {
-	padding-right: 15px;
+	padding-right: 45px;
+	/* margin-right: 100px; */
 }
 .header-social-links a {
 	color: #6f6f6f;
-	padding-left: 6px;
+	padding-left: 26px;
 	display: inline-block;
 	line-height: 0px;
 	transition: 0.3s;
-	font-size: 16px;
+	font-size: 40px;
 }
 .header-social-links a:hover {
+	color: #34b7a7;
+}
+
+.header-social-links-contact {
+	padding-right: 15px;
+}
+.header-social-links-contact a {
+	color: #6f6f6f;
+	padding-left: 0;
+	display: inline-block;
+	line-height: 0px;
+	transition: 0.3s;
+	font-size: 56px;
+}
+.header-social-links-contact a:hover {
 	color: #34b7a7;
 }
 

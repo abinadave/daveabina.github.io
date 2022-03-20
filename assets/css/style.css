@@ -150,16 +150,15 @@ h6 {
 # Header Social Links
 --------------------------------------------------------------*/
 .header-social-links {
-	padding-right: 45px;
-	/* margin-right: 100px; */
+	padding-right: 15px;
 }
 .header-social-links a {
 	color: #6f6f6f;
-	padding-left: 26px;
+	padding-left: 6px;
 	display: inline-block;
 	line-height: 0px;
 	transition: 0.3s;
-	font-size: 40px;
+	font-size: 16px;
 }
 .header-social-links a:hover {
 	color: #34b7a7;
@@ -170,7 +169,7 @@ h6 {
 }
 .header-social-links-contact a {
 	color: #6f6f6f;
-	padding-left: 0;
+	padding-left: 26px;
 	display: inline-block;
 	line-height: 0px;
 	transition: 0.3s;
